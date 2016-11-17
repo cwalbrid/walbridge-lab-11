@@ -1,0 +1,18 @@
+h1{
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	border:solid black .25vw;
+	padding:2vw;
+	margin:1vw;
+}
+
+a {
+	text-decoration:none;
+	text-align: center;
+}
